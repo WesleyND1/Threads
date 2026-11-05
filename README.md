@@ -10,9 +10,9 @@ Como todos os scripts utilizam apenas a **Biblioteca Padrão** do Python (`multi
 
 | Exercício | Descrição | Conceitos Aplicados |
 | :--- | :--- | :--- |
-| **[01. Thread Simples](#-exercício-01)** | Impressão básica com identificadores e atraso temporizado. | `multiprocessing`, `time.sleep`, Vetores estáticos `[0] * n` |
-| **[02. Soma com Vetor](#-exercício-02)** | Geração de valores aleatórios e cálculo de somas em paralelo. | `starmap`, `random.randint`, Múltiplos argumentos |
-| **[03. Corrida de Sapos](#-exercício-03)** | Simulação interativa e narrada de uma corrida concorrente. | Loops concorrentes, Condições de parada, `Pool` |
+| **[exe01.py - Thread Simples]** | Impressão básica com identificadores e atraso temporizado. | `multiprocessing`, `time.sleep`, Vetores estáticos `[0] * n` |
+| **[exe02.py - Soma com Vetor]** | Geração de valores aleatórios e cálculo de somas em paralelo. | `starmap`, `random.randint`, Múltiplos argumentos |
+| **[(exe03.py - Corrida de Sapos]** | Simulação interativa e narrada de uma corrida concorrente. | Loops concorrentes, Condições de parada, `Pool` |
 
 ---
 
